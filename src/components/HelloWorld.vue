@@ -31,6 +31,10 @@
 </template>
 
 <script>
+import * as vue from 'vue';
+
+console.log(vue);
+
 export default {
   name: 'HelloWorld',
   props: {
